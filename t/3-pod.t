@@ -1,6 +1,6 @@
 #$Id$
 
-use Test::More;
+use Test::More; 
 use File::Spec;
 use File::Find;
 use strict;

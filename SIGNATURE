@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.29.
+signed via the Module::Signature module, version 0.37.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,21 +14,21 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 c3929ee75230c2352fdc3cbb4171ef4f5ea37311 Changes
-SHA1 a5f4ad905274dd41c4e954445a83d8f43c2eac99 Elapse.pm
-SHA1 12849ea33ca6618c6ae6283205b0c0c168b7fe78 MANIFEST
-SHA1 c38f26017da2e701d6a67081e6d63b55c27988a4 META.yml
-SHA1 d193fcf4b11e2f76b4f98c412979a8b8200035c7 Makefile.PL
+SHA1 7cdd6b13b0c8b0a5a4dfd5473ec1c43d2a6ae253 Changes
+SHA1 6f12de18ac9b571f0d863e478a57628fd5e3aacf Elapse.pm
+SHA1 fd0292fbc86b3bcb960b0fafc271c1b09e790935 MANIFEST
+SHA1 2faacfa07c63a6d0b26ab63252884918f9a50352 META.yml
+SHA1 c8d1541ea143b4c3ad27a7e4f212a1cf47e6f452 Makefile.PL
 SHA1 8b43d37d9929d47448e87116f99e896bdd57a83c README
 SHA1 215c6c2eef41f471467e7069c931394f238f1609 othertest/lapsetest.pl
-SHA1 41dbd04f266658a99f31f4e96f58e7b05ec80b45 t/0-basics.t
-SHA1 d48b98736dfc4b41b673ce1e6785fb25b491fd5b t/0-signature.t
-SHA1 827aa3ebc6e48236aa9d963f7090a21982e68914 t/1-pod.t
+SHA1 30f5aa986fec6ec1061778ecac444d8fa4628740 t/0-signature.t
+SHA1 41dbd04f266658a99f31f4e96f58e7b05ec80b45 t/1-basics.t
 SHA1 3d7ddf6cb9a2c1984e29bf63078f10b61742e8b9 t/2-UTC.t
+SHA1 8407244dc827ce0fa65b16978a8217078e0f94f0 t/3-pod.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.2.1 (GNU/Linux)
 
-iD8DBQE/NfJmq+a61ao2lcwRAu+aAJ0Q2ALTB+9GDGCrBbPJ0dAQE9zY0QCgljRI
-FBjW8gctrB6CM/LumUgpqFk=
-=F0Jp
+iD8DBQE/2MRtlfQeTCNIWLARAtbYAJ42iKQ7632zspBKFbgUdBg1/fwUrACeLWvu
+ugD/gnmO7S77zlKXN9OTp/Y=
+=cpCZ
 -----END PGP SIGNATURE-----

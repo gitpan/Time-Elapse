@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 use strict;
-print "1..1";
+print "1..1\n";
 
 if (!eval { require Module::Signature; 1 }) {
 	print "ok 1 # skip ",

@@ -1,5 +1,17 @@
 Revision history for Perl extension Time::Elapse.
 
+1.24_01	Sun Nov 30 13:34:26 EST 2003
+	- Second verse, same as the first, and start-
+	ing to wonder if gpg is broken somehow on RH9
+	- also fixed a slight glitch in the signature
+	test, and renumbered the tests to make more
+	sense
+
+1.24	Thu Aug 28 01:45:22 EDT 2003
+	- *sigh* had to recreate my signature because
+	for some really silly reason I couldn't remem-
+	ber the original passphrase. :-)
+
 1.23	Fri Aug  8 01:13:27 EDT 2003
 	- added a SIGNATURE file to the distribution.
 	- added a t/0-signature.t test (basic) that I 
