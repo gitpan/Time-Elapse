@@ -12,7 +12,7 @@ use Time::HiRes qw/ gettimeofday /;
 # perhaps my install of Perl is broken? setting local TZ to
 # UTC seems to resolve this but it *should not be necessary!*
 
-our $VERSION = 1.24_01;
+our $VERSION = 1.24_02;
 our $_DEBUG = 0;
 
 sub TIESCALAR

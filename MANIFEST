@@ -2,6 +2,7 @@ Changes
 Elapse.pm
 Makefile.PL
 MANIFEST
+MANIFEST.SKIP
 README
 t/0-signature.t
 t/1-basics.t

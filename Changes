@@ -1,5 +1,10 @@
 Revision history for Perl extension Time::Elapse.
 
+1.24_02 Fri Dec 12 16:05:17 EST 2003
+    - patched MANIFEST and added MANIFEST.SKIP to
+    account for changes in ExtUtils::MakeMaker 
+    that now create blibdirs, etc. Shoot me now.
+    
 1.24_01	Sun Nov 30 13:34:26 EST 2003
 	- Second verse, same as the first, and start-
 	ing to wonder if gpg is broken somehow on RH9
